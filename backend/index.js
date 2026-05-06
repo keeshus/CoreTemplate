@@ -8,7 +8,7 @@ app.use(cors());
 app.use(express.json());
 
 app.get('/api/health', (req, res) => {
-  res.json({ status: 'ok', project: 'TakeYourTime image generator' });
+  res.json({ status: 'ok', project: 'Core Template' });
 });
 
 app.listen(port, () => {

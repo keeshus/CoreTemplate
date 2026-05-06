@@ -1,5 +1,5 @@
 /**
- * Skeleton worker for TakeYourTime image generator.
+ * Skeleton worker for Core Template.
  * This worker currently doesn't do anything yet.
  */
 
